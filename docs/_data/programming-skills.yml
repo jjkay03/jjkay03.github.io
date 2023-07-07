@@ -1,4 +1,4 @@
-- name: Python
+  - name: Python
   percentage: 80
   color: teal
 
