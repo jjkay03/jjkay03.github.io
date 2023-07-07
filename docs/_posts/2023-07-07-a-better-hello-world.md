@@ -2,7 +2,7 @@
 title: A test post
 tags: [Test Tag]
 style: fill
-color: dark
+color: danger
 description: Just a post to test things.
 ---
 
