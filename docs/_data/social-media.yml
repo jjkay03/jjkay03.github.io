@@ -14,7 +14,7 @@ dribbble:
 email:
   url   : "mailto:"
   icon  : fas fa-envelope
-  color : db4437
+  color : d5d5d5
 
 facebook:
   url   : https://www.facebook.com/
