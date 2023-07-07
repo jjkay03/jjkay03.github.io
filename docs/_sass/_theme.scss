@@ -30,7 +30,3 @@
 .bg-themed {
   @include themed(background-color, $light, $dark);
 }
-
-::selection {
-  color: white;
-  background: #ff8502;
