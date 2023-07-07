@@ -6,7 +6,7 @@ description: The Nations Experiment is a Minecraft event where a large ammount o
 #external_url: https://youtube.com/playlist?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV
 ---
 
-# **NATIONS EXPERIMENT**
+# **NATIONS EXPERIMENT** ![nations book](https://cdn.discordapp.com/attachments/708274032788635700/1126987142107762798/Logo.png)
 <br>
 
 Nations is a Minecraft event were a big amount of players try to simunlate civilasation in Minecraft.<br>
