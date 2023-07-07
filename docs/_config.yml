@@ -90,11 +90,6 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "minecraft"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
