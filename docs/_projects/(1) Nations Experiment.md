@@ -6,7 +6,7 @@ description: The Nations Experiment is a Minecraft event where a large ammount o
 #external_url: https://youtube.com/playlist?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV
 ---
 
-![nations book](https://cdn.discordapp.com/attachments/708274032788635700/1126987142107762798/Logo.png)
+[nations book](https://cdn.discordapp.com/attachments/708274032788635700/1126987142107762798/Logo.png)
 # **NATIONS EXPERIMENT**
 <br>
 
@@ -18,9 +18,9 @@ The event works in season, each season has its own theme and different players t
 
 #### **The Nations Searies Playlist**
 This is a playlist with all the season of the [Nations series](https://youtube.com/playlist?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV):
-<iframe width="768" height="432" src="https://www.youtube.com/embed/videoseries?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe src="https://discord.com/widget?id=855390073020874753&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/videoseries?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
 
 #### **Nations Discord**
-
+<iframe src="https://discord.com/widget?id=855390073020874753&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <br><br>
