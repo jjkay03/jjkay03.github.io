@@ -95,3 +95,8 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
+
+discord:
+  url   : https://discord.com/invite/
+  icon  : fab fa-discord
+  color : 5865f2
