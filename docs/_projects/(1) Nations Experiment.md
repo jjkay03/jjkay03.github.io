@@ -1,5 +1,5 @@
 ---
-name: Nations Experiment
+name: **Nations Experiment**
 tools: [Minecraft, Event]
 image: https://cdn.discordapp.com/attachments/708274032788635700/1126908985275056239/Untitled-1.png
 description: The Nations Experiment is a Minecraft event where a large ammount of players try to simulate civilization. 
@@ -13,6 +13,7 @@ The entire event is recorded and turned into cinematic YouTube video on the jjka
 
 The event works in season, each season has its own theme and different players that gets accepted through applications.
 
+
 #### The Nations Searies Play list
-This is a playlist with all the season of the (Nations series)[https://youtube.com/playlist?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV]:
+This is a playlist with all the season of the [Nations series](https://youtube.com/playlist?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
