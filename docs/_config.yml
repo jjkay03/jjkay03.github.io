@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : jjkay03
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Ray aka jjkay03
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : jjkay03/jjkay03.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,8 +23,8 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Ray
-  image             : https://yt3.googleusercontent.com/ytc/AGIKgqO8CBFW0YPMY6ZS0ZHPzzhQA0ftv1KbqBCwKUfJyA=s900-c-k-c0x00ffffff-no-rj
+  name              : jjkay03
+  image             : https://i.imgur.com/yMV2n1R.png
 # behance           : your_username
 # dribbble          : your_username
   email             : contact.jjkay03@gmail.com
