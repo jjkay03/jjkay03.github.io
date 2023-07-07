@@ -3,11 +3,11 @@
   color: danger
 
 - name: Live streaming
-  percentage: 60
+  percentage: 50
   color: info
 
 - name: Video editing
-  percentage: 60
+  percentage: 65
   color: secondary
 
 - name: Image editing
