@@ -12,7 +12,7 @@ I am a content creator and just a creator in general. I work on a lot of things,
 I mainly work on things related to Minecraft like my videos or Minecraft servers.
 
 <div class="row">
-{% include about/skills.html title="Content Creation Skills" source=site.data.other-skills %}  
+{% include about/skills.html title="Creation Skills" source=site.data.other-skills %}  
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 </div>
 
