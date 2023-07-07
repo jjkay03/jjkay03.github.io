@@ -1,6 +1,6 @@
 - name: Python
   percentage: 80
-  color: sucess
+  color: success
 
 - name: HTML/CSS
   percentage: 50
