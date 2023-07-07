@@ -1,7 +1,15 @@
-- name: Video editing
+- name: YouTube
+  percentage: 85
+  color: red
+
+- name: Live streaming
   percentage: 60
   color: indigo
 
+- name: Video editing
+  percentage: 60
+  color: purple
+
 - name: Image editing
   percentage: 70
-  color: purple
+  color: cyan
