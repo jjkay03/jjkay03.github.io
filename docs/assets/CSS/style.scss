@@ -1,11 +1,4 @@
 ---
 ---
 
-.link-after,.nav-link::after,.navbar-brand::after,.nav-item.active::after {
-    content: "";
-    display: block;
-    height: 0.15em;
-    background: #ff7700
-}
-
 @import "portfolYOU";
