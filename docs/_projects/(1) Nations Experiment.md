@@ -7,12 +7,12 @@ description: The Nations Experiment is a Minecraft event where a large ammount o
 ---
 
 # Nations Experiment
-<br>
+
 Nations is a Minecraft event where a big amount of players try to cimunlate civilasation in Minecraft.<br>
 The entire event is recorded and turned into cinematic YouTube video on the jjkay03 channel.
-<br>
+
 The event works in season, each season has its own theme and different players that gets accepted through applications.
-<br>
+
 #### The Nations Searies Play list
-This is a playlist with all the season of the Nations series:
+This is a playlist with all the season of the (Nations series)[https://youtube.com/playlist?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV]:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
