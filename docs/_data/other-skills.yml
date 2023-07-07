@@ -8,8 +8,8 @@
 
 - name: Video editing
   percentage: 60
-  color: light
+  color: secondary
 
 - name: Image editing
   percentage: 70
-  color: light
+  color: secondary
