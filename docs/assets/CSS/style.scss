@@ -1,6 +1,11 @@
 ---
 ---
 
-$primary:   #007bff;
+//$primary:   #007bff;
 
 @import "portfolYOU";
+
+::selection {
+  color: #ffffff;
+  background: #ff7700;
+}
