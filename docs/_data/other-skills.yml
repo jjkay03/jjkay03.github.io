@@ -1,6 +1,6 @@
 - name: YouTube
   percentage: 85
-  color: red
+  color: danger
 
 - name: Live streaming
   percentage: 60
