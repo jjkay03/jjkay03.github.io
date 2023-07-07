@@ -1,8 +1,8 @@
 - name: Python
-  percentage: 70
-  color: teal
+  percentage: 80
+  color: sucess
 
 - name: HTML/CSS
   percentage: 50
-  color: gray
+  color: secondary
 
