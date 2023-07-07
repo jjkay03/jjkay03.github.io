@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : jjkay03
 description         : >-
-                      Ray aka jjkay03
+                      I am Ray AKA jjkay03
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : jjkay03/jjkay03.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : https://yt3.googleusercontent.com/ytc/AGIKgqO8CBFW0YPMY6ZS0ZHPzzhQA0ftv1KbqBCwKUfJyA=s900-c-k-c0x00ffffff-no-rj  # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
