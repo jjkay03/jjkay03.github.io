@@ -18,3 +18,6 @@ The event works in season, each season has its own theme and different players t
 #### **The Nations Searies Playlist**
 This is a playlist with all the season of the [Nations series](https://youtube.com/playlist?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV):
 <iframe width="768" height="432" src="https://www.youtube.com/embed/videoseries?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br><br>
+
+<iframe src="https://discord.com/widget?id=855390073020874753&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
