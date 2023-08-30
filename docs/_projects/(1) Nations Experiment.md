@@ -15,7 +15,7 @@ The entire event is recorded and turned into cinematic YouTube video on the [jjk
 The event works in season, each season has its own theme and different players that gets accepted through applications that are usually hosted on the Nations Discord.
 <br><br><br>
 
-#### **The Nations Searies Playlist**
+#### **The Nations Series Playlist**
 This is a playlist with all the season of the [Nations series](https://youtube.com/playlist?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV):
 <iframe width="768" height="432" src="https://www.youtube.com/embed/videoseries?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
