@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Button Click Counter</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #17191a; 
+    color: #ffffff; 
+    font-size: 24px;
+  }
+  #container {
+    text-align: center;
+  }
+  #counter {
+    font-size: 100px; /* Larger font size */
+    margin-bottom: 60px; /* Increased margin */
+  }
+  #clickButton {
+    padding: 20px 30px; /* Increased padding */
+    font-size: 36px; /* Larger font size */
+    background-color: #ffffff; /* Button background color inverted */
+    color: #111111; /* Button text color inverted */
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+  <div id="container">
+    <div id="counter">0</div>
+    <button id="clickButton">CLICK</button>
+  </div>
+  <script>
+    const counter = document.getElementById("counter");
+    const clickButton = document.getElementById("clickButton");
+
+    let count = 0;
+    counter.textContent = count;
+
+    clickButton.addEventListener("click", () => {
+      count++;
+      counter.textContent = count;
+    });
+  </script>
+</body>
+</html>
