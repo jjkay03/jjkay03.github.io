@@ -6,6 +6,10 @@
   percentage: 50
   color: info
 
+- name: Event organising
+  percentage: 80
+  color: warning
+
 - name: Video editing
   percentage: 65
   color: secondary
