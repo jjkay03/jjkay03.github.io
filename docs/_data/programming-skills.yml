@@ -3,7 +3,7 @@
   color: success
 
 - name: Kotlin
-  percentage: 50
+  percentage: 30
   color: purple
 
 - name: HTML/CSS
