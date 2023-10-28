@@ -1,6 +1,6 @@
 - name: Python
   percentage: 80
-  color: success
+  color: warning
 
 - name: Kotlin
   percentage: 30
