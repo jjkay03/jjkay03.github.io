@@ -3,7 +3,7 @@
   color: warning
 
 - name: Kotlin
-  percentage: 30
+  percentage: 40
   color: indigo
 
 - name: HTML/CSS
