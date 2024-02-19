@@ -1,6 +1,6 @@
 ---
 name: Minecraft Modding
-tools: [Minecraft, Modding]
+tools: [Minecraft, Modding, Dev]
 image: https://media.discordapp.net/attachments/708274032788635700/1209089951409512488/image.png?ex=65e5a7c4&is=65d332c4&hm=beebc61f03b754490e8bfc2ea6c17028fed9bc6c3c2a17a1b6132424d688245e&=&format=webp&quality=lossless&width=901&height=676
 description: Minecraft mods, server plugins, resourcepacks ect
 external_url: https://modrinth.com/user/jjkay03
