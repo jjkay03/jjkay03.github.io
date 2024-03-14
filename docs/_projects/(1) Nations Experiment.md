@@ -1,7 +1,7 @@
 ---
 name: Nations Experiment
 tools: [Minecraft, Event]
-image: https://github.com/jjkay03/jjkay03.github.io/blob/master/docs/assets/project_banners/nations%20banner.png
+image: https://github.com/jjkay03/jjkay03.github.io/blob/master/docs/assets/project_banners/nations%20banner.png?raw=true
 description: The Nations Experiment is a Minecraft event where a large ammount of players try to simulate civilization. 
 #external_url: https://youtube.com/playlist?list=PL0q9YKBusYodIiBvud98tMepUZKjqO-UV
 ---
