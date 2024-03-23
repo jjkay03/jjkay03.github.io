@@ -14,19 +14,28 @@ permalink: /crochet.html
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh; /* Changed height to min-height */
     margin: 0;
     background-color: #17191a; 
     color: #ffffff; 
     font-size: 24px;
   }
+
   #container {
     text-align: center;
   }
+
+  #roundsContainer {
+    max-height: 300px; /* Set a maximum height for the rounds container */
+    overflow-y: auto; /* Add vertical scrollbar when content exceeds the height */
+    margin-top: 20px; /* Adjusted margin */
+  }
+
   #counter {
     font-size: 100px; /* Larger font size */
     margin-bottom: 60px; /* Increased margin */
   }
+
   .button {
     padding: 20px 30px; /* Increased padding */
     font-size: 36px; /* Larger font size */
@@ -37,6 +46,7 @@ permalink: /crochet.html
     cursor: pointer;
     margin: 10px; /* Add margin to separate buttons */
   }
+
   #roundsButton {
     padding: 10px 20px; /* Increased padding */
     font-size: 50px; /* Larger font size */
@@ -47,21 +57,23 @@ permalink: /crochet.html
     cursor: pointer;
     margin-top: 20px; /* Add margin to separate from click button */
   }
+
   #editButton {
     padding: 10px 10px; /* Adjusted padding */
     font-size: 18px; /* Adjusted font size */
     margin-top: 5px; /* Add margin to separate buttons */
     background-color: #888888;
   }
+
   #resetButton {
     padding: 10px 10px; /* Adjusted padding */
     font-size: 18px; /* Adjusted font size */
     margin-top: 5px; /* Add margin to separate buttons */
     background-color: #ff6e6e;
   }
+
   #rounds {
     font-size: 25px;
-    margin-top: 40px; /* Add margin to separate from buttons */
   }
 </style>
 </head>
@@ -70,11 +82,13 @@ permalink: /crochet.html
     <div id="counter">0</div>
     <button id="clickButton" class="button">CLICK</button>
     <button id="roundsButton">&#x21bb;</button>
-    <br> <!-- Add line break -->
-    <button id="editButton" class="button">Edit</button>
-    <button id="resetButton" class="button">Reset</button>
-    <br> <!-- Add line break -->
-    <div id="rounds"></div>
+    <div>
+      <button id="editButton" class="button">Edit</button>
+      <button id="resetButton" class="button">Reset</button>
+    </div>
+    <div id="roundsContainer"> <!-- Changed ID to "roundsContainer" -->
+      <div id="rounds"></div>
+    </div>
   </div>
   <script>
     const counter = document.getElementById("counter");
